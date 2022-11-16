@@ -130,7 +130,6 @@
 ## 杂项
 
 * [CSGO源代码泄露事件](miscellaneous/csgo-src-leak.md)
-* [绿演指南](miscellaneous/tips-for-legit-players.md)
 * [账户信用](miscellaneous/trust-factor.md)
 * [骗局](miscellaneous/scams.md)
 * [如何编写作弊器](miscellaneous/how-to-start-coding-a-cheat.md)
