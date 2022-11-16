@@ -1,45 +1,41 @@
-# Introduction
+# 私人作弊器
 
-While there are public cheats available for general users to choose, but there are also some cheats decided to go private for various reasons.
+虽然有公开的作弊器可供一般用户选择，但也有一些作弊器因各种原因决定转为私有。
 
-## Advantages of staying private
+## 私人作弊器的优势
 
-* Lesser chances of being detected
-* Making your cheat more famous, since not anyone can get one easily.
+* 被VAC检测到的几率更小
+* 使你的作弊行为更加出名，因为不是任何人都能轻易得到。
 
-And here are some examples of private cheats.
+而这里有一些私人作弊器的例子。
 
 ## Skeet / Gamesense
 
 ![The logo of Gamesense.pub](https://i.imgur.com/7JO0tRh.png)
 
-Gamesense.pub \(previously known as skeet.cc\) is a private cheat provider started from 2016. It is considered the top tier cheat provider in the CSGO cheating scene. The menu has been pointed as a standard for most startup cheat providers/self-coded cheats.
+Gamesense.pub （旧域名skeet.cc）是一个从2016年开始的私人作弊器供应商。它被认为是顶级作弊器。该菜单已被指出为大多数初创作弊器供应商/自编作弊器的标准。
 
 ![The menu of gamesense.pub. ](https://i.imgur.com/AWQRRDE.png)
 
-It has an un-hittable Anti-Aim and a 'godlike' resolver back during it's release. Despite nowdays there are lots of both private and public cheats started to comes up with gamesense, it's still considered the top cheat for CSGO. Invite only.
+在发布时，它有一个god AA和god Resolver。尽管现在有很多纪狗开始使用gamesense，但它仍然被认为是CSGO的顶级作弊器。仅限邀请（邀请码价格2500左右）。
 
 ## Fatality
 
-\[TODO:Fatality logo+menu\] Fatality.win is another private cheat provider started in 2018. It is a HvH-focused cheat, which means it is lacking of legit features. It has a \[insert\] anti-aim and a \[insert\] resolver. Invite only, and haven't received updates for a while.
+Fatality.win是另一个始于2018年的私人作弊器供应商。它是一个主打HvH的作弊器，这意味着它缺乏Legit功能。只接受邀请，而且有一段时间没有收到更新。
 
 ## Novolinehook
 
 ![The logo of novolinehook.](https://i.imgur.com/fQBhoD4.png)
 
-Novo.win \(Previously novolinehook.com\) is a German private cheat provider started in 2017. It is an excellent cheat for players who are aimed to closet, legit, or even semirage cheating. It is mostly known for its ability to stay undetected, and has dodged many of the recent waves.
+Novo.win \(旧域名 novolinehook.com\) 是一家始于2017年的德国私人作弊器供应商。它是一个优秀的作弊器，主打Legit和semirage。它主要以其不被VAC检测到的能力而闻名，并躲过了最近的许多VAC浪潮。
 
 ![The menu of novolinehook.](https://image.prntscr.com/image/d3y5BHiwQ0eHrEgLJN2E8g.png)
 
-Novoline also has a league, and a private vesion \(Hook of Ra\). League version supports VAC, SMAC, EAC, CEVO, ESL WIRE \(unstable\), and FaceIT Serverside. Also, NovolineHook has an decent staff support, with fast HWID resets and willing to offer you remote support in certain cases.
+Novoline也有一个联赛，和一个私人版本（Hook of Ra）。联盟版本支持VAC、SMAC、EAC、CEVO、ESL WIRE\(unstable\)和FaceIT Serverside。此外，NovolineHook有一个积极的人工支持，有快速的HWID重置，并愿意在某些情况下为你提供远程支持。
 
-However the developers are reported to be lazy to push updates to the cheat. Also keep in mind that this is a legit-focused cheat, so you won't have a big chance against ragers. With that being said, it's resolver and legit anti-aim are still useful to fight against other semi-ragers.
+然而，据报道，开发人员懒于向作弊器推送更新。此外，请记住，这是一个以合法为重点的作弊器，所以你不会有很大的机会对付暴徒。话虽如此，它的解析器和合法的反瞄准器在对抗其他半游击队时仍然很有用。
 
-This cheat is used to be open for application, however recently it has turned into invite only.
-
-## Fanta
-
-![Fanta menu](https://xtremecheats.gg/uploads/threads/thread_c4598093e0a7a240c7fce0defc23ecc3.jpeg) Fanta.club is a Private legit cheat provider which mostly focuses on its semi-rage aspects. Although there are rumours claimed it is pasted from gladiatorcheatz, it is still considered one of the best semirage cheat and is a competitor to Novoline. It has had its fair share of detections, but performance wise its really good. The community is active and the devs are less making updates for the cheat recently. Invite and applications are available.
+这个作弊器以前是公开申请的，但最近变成了只接受邀请。
 
 ## ev0lve
 
@@ -47,13 +43,13 @@ This cheat is used to be open for application, however recently it has turned in
 
 ![Ev0lve menu](https://i.imgur.com/z1ybnxm.png)
 
-ev0lve.xyz is a German private cheat provider that started back in 2015 as a invite only external legit cheat, it's since "evolved" into a well-developed internal HvH hack with loads of features also used outside of HvH, you could compare it to an HvH based cheat like Fatality with a few more legit features available. Application and invites are available, with limited application slots.
+ev0lve.xyz 已经公开成为公共作弊，你可以在[这里](https://hvhcsgo.com/threads/62/)查看对开发者的采访
 
 ## Rifk7
 
 ![rifklogo](https://i.imgur.com/Exun366.png)
 
-\[TODO:rifk7 menu\] Rifk7 is a private HvH cheat. Specially to mention the loader will plays music when opening it. Invites purchasable from admin. TODO
+rifk7.com 是一个私人的HvH作弊器。由于在注入时会播放音乐，因此也被戏称为DJ挂。可从管理员处购买邀请函。
 
 ## Nemesis
 
@@ -61,9 +57,10 @@ ev0lve.xyz is a German private cheat provider that started back in 2015 as a inv
 
 ![nemesis menu](https://i.imgur.com/Oiv5hpv.png)
 
-Nemesis.techonology is a cheat provider started in 20xx. Despite the cheat itself was cracked back in June 2020, however the crackers decided to make it paid only. Invite only.
+nemesis.technology 是一个始于20xx年的作弊器供应商。尽管作弊器本身早在2020年6月就被破解了，然而破解者决定让它只能付费。只接受邀请。
 
-## We missed out some private cheats that you know?
+##  Primordial
 
-If you find out any other private cheats that we missed, feel free to [create an issue on our github](https://github.com/csgohacks/master-guide/issues) to submit it! However keep in mind that we will not accept all of them.
+Primordial.dev 本文章不做叙述，可以在[这里](https://hvhcsgo.com/threads/7513/)查看详细内容
 
+# 欢迎补充...

@@ -1,6 +1,6 @@
-# Things to do when your account got banned
+# 当你的账户被封禁时，应该做的事情
 
-## Introduction
+## 简介
 
 Now you have followed the guide to set up a cheat, get your first victory when raging in MatchingMaking, and you got this:
 

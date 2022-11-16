@@ -1,20 +1,12 @@
-# CSGO Source Code leaks
+# CSGO 源代码泄露事件
 
-In 22nd April 2020, a copy of CSGO's incomplete source code has been leaked into 4chan's page within Team Fortress 2's source code, a project that Tyler Mcvicker [\(A.K.A, Valve News Network\)](https://www.youtube.com/channel/UCL5RKbiAPqSC_mUIjCpx3xg)'s studio has been working on, and some images leading about Half-Life 3. \(Which is mostly public.\). Within hours, copies are being made across most popular cheating forums and mirrors are made on github and MEGA cloud. Despite valve took action immediately and serval mirrors are taken down, a lot of people have obtained the source code.
+在2020年4月22日，一份不完整的CSGO和TF2的源代码被泄露到4chan的页面内，以及一些泰勒-麦克维克[（A.K.A，Valve News Network）](https://www.youtube.com/channel/UCL5RKbiAPqSC_mUIjCpx3xg)工作室一直在进行的项目，例如半衰期3的图片。在几个小时内，大多数论坛上都出现了拷贝，github和MEGA cloud上也出现了镜像。尽管Valve立即采取了行动，并关闭了许多镜像，但仍有许多人获得了源代码。
 
-## Who did it?
+## 谁干的？（存在争议）
 
-### Controversial Section!
+根据一些消息来源，"Lever Softworks"（泰勒-麦克维克拥有的工作室）的一名开发人员对这次泄漏负责。该开发者这样做是为了报复泰勒-麦克维克，因为泰勒-麦克维克由于一些秘密原因解雇了他。
 
-* This section describes a highly controversial event/item that may subject to change, you should NOT take this an absolute reference. By reading the following section, you are agreed that r/csgohacks and CSGO cheating masterguide contributors will not bear any reponsibility for any misleading information.
+## 我在此事件中是否安全？
 
-According to serval sources, a developer at "Lever Softworks", a studio owned by Tyler Mcvicker is responsible for this leak. The developer was doing this as a revenge to Tyler Mcvicker, who just fired him due to some confidential reasons.
-
-## What's inside?
-
-TODO
-
-## Am I safe from this source code leak?
-
-At the beginning of the leak, there are serval claimed that cathook, a Team Fortess 2 cheat for linux has successfully found a RCE \(Remote command exection\) exploit that allows the attacker to execute files to the victim's PC. However it turns out the videos are faked and the administrators of Cathook has clarified theese videos are not afficiated with cathook, there are still rumors that the is RCE exploits around for both games. Later that day, the developers of CSGO made a tweet to clarify there are no exploits are being undiscorved inside the leaked source code, as some CSGO reverse engineers have confirmed Valve's statement. So it's pretty sure to say that you're safe to play CSGO.
+在泄漏之初，有很多人声称cathook（一个Linux的Team Fortess 2作弊器）成功地发现了一个RCE（[远程代码执行](https://baike.baidu.com/item/%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C/17583172)）漏洞，允许攻击者执行代码到受害者的电脑。然而，事实证明这些视频是伪造的，Cathook的管理员已经澄清了这些视频与Cathook无关，但仍然有传言说这两个游戏都有RCE漏洞。当天晚些时候，CSGO的开发者在推特上澄清，在泄露的源代码中没有未被发现的漏洞，并且一些逆向工程师已经证实了Valve的声明。所以可以很肯定地说，你玩CSGO是安全的。
 

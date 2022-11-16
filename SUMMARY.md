@@ -11,16 +11,16 @@
 * [走向BN的第一步](introduction/first-steps.md)
 * [FAQ](introduction/faq.md)
 * [游戏封禁](introduction/game-bans.md)
-* [Terminology of csgo cheating](introduction/terminology-of-csgo-cheating.md)
+* [常见术语](introduction/terminology-of-csgo-cheating.md)
 * [作弊器的各种功能](introduction/cheat-features.md)
 
 ## 作弊器
 
-* [Introduction](cheat-software/introduction.md)
-* [Anti-Cheats](cheat-software/anti-cheats.md)
-* [Common mistakes when choosing a cheat software](cheat-software/common-mistakes-when-choosing-a-cheat-software.md)
-* [Pastes and scams](cheat-software/pastes-and-scams.md)
-* [Linux and macOS cheats](cheat-software/linux-and-mac-cheats.md)
+* [介绍](cheat-software/introduction.md)
+* [反作弊](cheat-software/anti-cheats.md)
+* [选择作弊器时的常见错误](cheat-software/common-mistakes-when-choosing-a-cheat-software.md)
+* [粘贴和骗局](cheat-software/pastes-and-scams.md)
+* [Linux，macOS 作弊器](cheat-software/linux-and-mac-cheats.md)
 
 ## 纯绿演作弊器 (Legit Only)
 

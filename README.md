@@ -10,7 +10,7 @@
 * 玩法
 * 杂项
 
-你可以在gitbook上方便地查看本指南 [here](https://m3ma110c.gitbook.io/mg/).
+你可以在gitbook上方便地查看本指南 [here](https://matt12945.gitbook.io/csgo-subreddit/).
 
 ### Issues and pull requests
 

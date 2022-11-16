@@ -1,20 +1,18 @@
-# Scams
+# 骗局
 
-In online world, there are a lot of people who would like to scam money from you, HvH community is no exception. There are a lot of scammers out there would like to scam money by claiming to having invites for private cheats, steam accounts, steam card selling, etc.
+在网络世界中，有很多人都想从你身上骗钱，HvH社区也不例外。有很多骗子通过声称有私人作弊器的邀请码，steam账户，steam充值卡等来骗取金钱。
 
-## Common scamming methods
+## 常见的诈骗方法
 
-[TODO:inject photos](scams.md)
+骗子通常会在许多著名的HvH youtuber的discord服务器上，向随机的人发送DM，问你是否对特定的商品感兴趣，大多数是流行的私人作弊器的邀请，如gamesense或fatality。有时，他们也会在论坛上发帖，声称提供私人作弊器的邀请码/账户/steam充值卡，或steam账户等。
 
-Scammers would usually around at many famous HvH youtuber's discord server and sending DM's to random people, asking you are you interested in a specific goods, mostly an invitation for popular private cheats, such as gamesense or fatality. Sometimes, they will also posting on serval server's marketplace channel, claimed to offer you a private cheat invite/account/elling steam cards, or steam accounts, etc. Some users may asked for a proof, which the scammers will send out their already photoshopped photos, making the victim think it is legit. Then after the scammer receives the money from the victim, they will just run away, leaving the victim loss of money, and nowhere to help.
+## 如何避免骗局？
 
-## How to avoid scams?
+**交易一定要走中介！！！**
 
-If you got a DM from people who claimed to have a gamesense/fatality invite, you should not reply to them. Since as we mentioned in [how to apply for private cheats section,](scams.md) invite selling will have a higher risk of getting banned. Besides, they don't actually have a invite, too. You can also ask them for extra information, such as UID \(User id, a number to identify a user\), first few words of their username, date of registered. Then you if you get two or more information from them, [head to this website](scams.md). This is a website running by us to verify these information are valid. If no, you should stay away from them.
+## 额外: 避免后门/木马/远控
 
-If you really want a gamesense/fatality invite, which is STILL not recommended, you can go check out some high-reputation sellers from famous discord servers. Also, get yourself a middleman. A middleman will decreases you chances of getting banned. In [NASA\#9797's discord server](https://discord.gg/HQQW6Hc), or in [Our offical discord server](https://discord.gg/7ZkBrUN), there are serval people would offer their middleman services, but some of them need to pay for a small amount of fee.
+![yzw](.\yzw.jpg)
 
-## Extra: Avoiding RATs \(Remote Access Tool/Trojan\)
-
-This should not counted as a scam, however sometimes some people also reported getting RATted, which means their PC got remote accessed illegally from other people by claiming have a in-development cheat that need people to try out, and having a .exe file attached. As we mentioned before, newcomers should stay away from lesser-known cheats first, due to a instability, higher chance of getting detected. So if the .exe file is lesser than a megabyte \(1MB\), then it will have a higher chance that this is a RAT program, which you should not open up, then you should report the user who send you the program to the moderator and to discord's trust and safety team.
+这不应该算作一个骗局，但有时一些人报告说他们的电脑被病毒感染，这意味着他们的电脑可以被其他人非法远程访问，盗取密码，历史记录，cookie之类的内容。不运行来路不明的PE文件就能避免
 
