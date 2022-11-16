@@ -47,8 +47,6 @@
 
 * [OsirisAndExtra](free-and-pastes/Osiris/ex.md)
 * [Luckycharms](free-and-pastes/luckycharms/README.md)
-  * [How to inject](free-and-pastes/luckycharms/how-to-inject.md)
-  * [Menu introduction](free-and-pastes/luckycharms/menu-introduction.md)
 * [Cracks](free-and-pastes/cracks/README.md)
   * [Onetap crack](cheat-configuration/onetap-crack.md)
   * [Fatality crack](free-and-pastes/cracks/fatality-crack/README.md)
