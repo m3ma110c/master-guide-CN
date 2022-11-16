@@ -43,7 +43,7 @@
 * [Introduction](free-and-pastes/introduction.md)
 * [VAC-bypass](free-and-pastes/vacbypass.md)
 * [Osiris](free-and-pastes/Osiris/osiris.md)
-  * [Paste from Osiris](free-and-pastes/Osiris/osiris-paste-guide.md)
+  * [从Osiris粘贴](free-and-pastes/Osiris/osiris-paste-guide.md)
 
 * [OsirisAndExtra](free-and-pastes/Osiris/ex.md)
 * [Luckycharms](free-and-pastes/luckycharms/README.md)

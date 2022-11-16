@@ -1,6 +1,6 @@
 # Osiris
 
-Osiris is an open-source legit cheat for CS:GO. It is commonly used as a base for pasted cheats. In this guide by BaconatorPizza, is going to teach how to compile osiris from source.
+Osiris是CS:GO的一个开源合法作弊器。它通常被用来作为粘贴作弊器的基础。在这个由BaconatorPizza编写的指南中，我们将教大家如何从源代码中编译Osiris。
 
 ***
 
@@ -36,7 +36,7 @@ Press Local Windows Debugger (or whatever it says for you), and wait for it to b
 
 ***
 
-## Step 3: Removing VMT Hooking
+## Step 3: 移除 VMT Hook
 
 On the sidebar, you will see a folder called Hooks, open that up and delete VmtSwap.cpp, VmtSwap.h, VmtHook.cpp and VmtHook.h.
 
@@ -56,49 +56,49 @@ You are done removing VMT hooking! Onto the next step.
 
 ***
 
-## Step 4: Removing Features
+## Step 4: 移除多余功能
 
-Go into the folder called hacks, and delete all the files for features you will not use. Delete the .cpp and .h files. If you aren't too much of a skid, you can go into Visuals.cpp and delete the functions for visuals you will not use.
+进入名为hacks的文件夹，删除所有你不会使用的功能的文件。删除.cpp和.h文件。如果你不是太滑头，你可以进入Visuals.cpp，删除你不会使用的视觉效果的功能。
 
-Next go into Source Files, and open up Config.cpp. You should have a ton of errors. Simply delete the lines that are causing the errors. (ex. If you have an error on line 15, delete line 15).
+接下来进入Source Files，并打开Config.cpp。你应该有一大堆错误。简单地删除导致错误的那几行。(例如，如果你在第15行有一个错误，删除第15行）。
 
-Go into Hooks.cpp, and do the same. Lastly, do the same for GUI.cpp.
+进入Hooks.cpp，做同样的事情。最后，对GUI.cpp进行同样的操作。
 
-Press Local Windows Debugger again, because sometimes (or at least for me), certain errors don't show up until you compile. Also, if it says the error is in GUI.obj, Hooks.obj or etc, open up file-with-error.cpp. If it does not show the error in there, open up file-with-error.h.
+再按一下本地Windows调试器，因为有时（至少对我来说），某些错误在你编译前不会显示出来。另外，如果它说错误是在GUI.obj、Hooks.obj或其他地方，打开file-with-error.cpp。如果它没有显示错误在那里，就打开file-with-error.h。
 
-You are done removing features! Onto the next step.
-
-***
-
-## Step 5: Renaming Features
-
-Of course, every file/feature has a name. VAC however, can scan your cheats code and check for those names (and just other aspects of the code). If it matches known cheat code (which it will, Osiris and other open source cheats are most definitely detected), it will ban you.
-
-So what we must do, is rename things to combat this. This won't totally solve our problem, but it still helps a bit. On top of that, it will change up the signature a little bit, which is nice!
-
-For example, rename Backtrack.cpp and Backtrack.h to AimRewind (or something like that). Keep in mind you must also change this in all references to the file, like when another file is doing `#include <Hacks/Backtrack.cpp>`.
-
-In places like GUI.cpp, the string containing what it will actually display as the name doesn't need to have it's value modified. However, it's a smart idea to rename the variable itself.
-
-Once you have done this for most things in the cheat, move onto the next step!
+你已经完成了删除功能的工作 进入下一个步骤。
 
 ***
 
-## Step 6: Modifying Code
+## Step 5: 重命名功能
 
-You know of how I said VAC scans your cheat against known cheat code? Well renaming things on it's own isn't enough. We need to do more!
+当然，每个文件/功能都有一个名字。然而，VAC可以扫描你的作弊代码并检查这些名字（以及代码的其他方面）。如果它与已知的作弊代码相匹配（会的，Osiris和其他开源作弊器肯定会被检测到），它将禁止你。
 
-Even doing little things such as replacing `currentTargetXPos = 52.234` with `currentTargetXPos = 50 + 2.234` (or something like that lol, just an example I came up with) will not only change the signature, but combat VAC detection!
+因此，我们必须做的是重新命名，以对抗这种情况。这不会完全解决我们的问题，但它仍然有一点帮助。最重要的是，它可以改变一下签名，这很好!
 
-So go around doing this. It will probably take a while. However, if you do it enough, it will help a lot with making your paste undetected.
+例如，将Backtrack.cpp和Backtrack.h重命名为AimRewind（或类似的东西）。请记住，你也必须在所有对该文件的引用中改变这一点，比如当另一个文件在做`#include <Hacks/Backtrack.cpp>`时。
 
-Once you have done this for most things in the cheat, move onto the next step!
+在像GUI.cpp这样的地方，包含它将实际显示的名字的字符串不需要修改它的值。然而，对变量本身进行重命名是一个明智的想法。
+
+一旦你对作弊器中的大多数东西都做了这个处理，就可以进入下一个步骤了
 
 ***
 
-## Step 7: Compiling
+## Step 6: 修改代码
 
-This last step will help you compile your cheat.
+你知道我说过VAC会根据已知的作弊代码扫描你的作弊吗？那么仅靠重命名是不够的。我们需要做得更多!
+
+即使是做一些小事，比如把`currentTargetXPos = 52.234`替换成`currentTargetXPos = 50 + 2.234`（或类似的东西，笑，只是我想出来的一个例子），不仅可以改变签名，而且可以对抗VAC的检测！所以到处做这些事。
+
+所以到处去做这个。这可能需要一些时间。然而，如果你做得够多，它将对你的粘贴不被发现有很大帮助。
+
+一旦你对作弊器中的大多数东西都这样做了，就可以进入下一个步骤了!
+
+***
+
+## Step 7: 编译
+
+这最后一步将帮助你编译你的作弊器。
 
 First of all, if you did decide to use a source code obfuscator, make sure you use that first before you compile because it probably wont work on your finished build of the cheat. Once you have ran it, press Local Windows Debugger to compile.
 
@@ -108,7 +108,9 @@ If you decided to get VMProtect, run that on your DLL. Take the outputted one, a
 
 Open up SigBench. In the first slot, input the original DLL from earlier. In the second slot, input your new one. Press benchmark.
 
-There should be a pretty big difference in signatures, and it should look something like this: ![https://imgur.com/6kOpTCv](https://i.imgur.com/6kOpTCv.png)
+签名应该有一个相当大的差别，它应该看起来像这样。
+
+![https://imgur.com/6kOpTCv](https://i.imgur.com/6kOpTCv.png)
 
 You are now done!
 

@@ -4,5 +4,5 @@
 
 https://github.com/notgoodusename/OsirisAndExtra
 
-![挨打战绩图](https://github.com/m3ma110c/master-guide-CN/blob/main/free-and-pastes/Osiris/ad.PNG)
+![挨打战绩图]()
 
