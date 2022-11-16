@@ -8,5 +8,3 @@ Cracks are just like the paid version of a specific cheat for example OneTap Cra
 
 * Onetap.su v3 \(June-July 2020\)
 * Fatality.win \(January 2020 //TODO\)
-* Zapped.cc \(May 2020, do not use it\)
-

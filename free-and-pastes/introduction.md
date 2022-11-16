@@ -1,10 +1,10 @@
-# Introduction
+# 简介
 
-Are you being to broke to afford a cheat, or want to try to cheat in CS:GO before spending your money to buy a paid cheat? The CSGO cheating community has come up with some free solutions for you to try out! In this section will cover the most popular free cheats available on the internet. This includes:
+您是否买不起作弊器，或者想在花钱购买付费作弊器之前尝试在CS:GO中免费作弊？我们有一些免费的解决方案供您使用 ，在本节中，将介绍互联网上最流行的免费作弊器。这包括
 
 * Onetap crack
 * Fatality crack
-* RatPoison
 * LuckyCharms
 * Osiris
+* OsirisAndExtra
 

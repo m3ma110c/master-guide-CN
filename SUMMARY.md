@@ -24,9 +24,7 @@
 
 ## 纯绿演作弊器 (Legit Only)
 
-* [Iniuria](legit-features-only-cheat-software/iniuria/README.md)
-  * [How to inject](legit-features-only-cheat-software/iniuria/how-to-inject.md)
-  * [Menu introduction](legit-features-only-cheat-software/iniuria/menu-introduction.md)
+
 
 ## 综合作弊器 (Legit + HvH)
 
@@ -44,22 +42,16 @@
 
 * [Introduction](free-and-pastes/introduction.md)
 * [VAC-bypass](free-and-pastes/vacbypass.md)
-* [Ratpoison](free-and-pastes/ratpoison/README.md)
-  * [Test1](free-and-pastes/ratpoison/test1.md)
-  * [Test2](free-and-pastes/ratpoison/test2.md)
+* [Osiris](free-and-pastes/Osiris/osiris.md)
+  * [Paste from Osiris](free-and-pastes/Osiris/osiris-paste-guide.md)
+
+* [OsirisAndExtra](free-and-pastes/Osiris/ex.md)
 * [Luckycharms](free-and-pastes/luckycharms/README.md)
   * [How to inject](free-and-pastes/luckycharms/how-to-inject.md)
   * [Menu introduction](free-and-pastes/luckycharms/menu-introduction.md)
-* [Pastes](free-and-pastes/pastes/README.md)
-  * [How to set up the development environment](free-and-pastes/pastes/how-to-set-up-the-development-environment.md)
-  * [Osiris](free-and-pastes/pastes/osiris.md)
-  * [Sensum](free-and-pastes/pastes/sensum.md)
-  * [Xy0](free-and-pastes/pastes/xy0.md)
 * [Cracks](free-and-pastes/cracks/README.md)
   * [Onetap crack](cheat-configuration/onetap-crack.md)
   * [Fatality crack](free-and-pastes/cracks/fatality-crack/README.md)
-    * [How to inject](free-and-pastes/cracks/fatality-crack/how-to-inject.md)
-    * [Menu introduction](free-and-pastes/cracks/fatality-crack/menu-introduction.md)
 
 ## 私人作弊器 (Private)
 
@@ -70,11 +62,6 @@
 
 * [Introduction](cheat-configuration/introduction/README.md)
   * [Paid configurations](cheat-configuration/introduction/paid-configurations.md)
-* [Iniuria](cheat-configuration/iniuria/README.md)
-  * [Closet](cheat-configuration/iniuria/closet.md)
-  * [Legit](cheat-configuration/iniuria/legit.md)
-  * [Blatant](cheat-configuration/iniuria/blatant.md)
-  * [Legit HvH](cheat-configuration/iniuria/legit-hvh.md)
 * [Neverlose](cheat-configuration/spirthack/README.md)
   * [Closet](cheat-configuration/spirthack/closet.md)
   * [Legit](cheat-configuration/spirthack/legit.md)
@@ -130,6 +117,7 @@
 ## 杂项
 
 * [CSGO源代码泄露事件](miscellaneous/csgo-src-leak.md)
+* [绿演指南](miscellaneous/tips-for-legit-players.md)
 * [账户信用](miscellaneous/trust-factor.md)
 * [骗局](miscellaneous/scams.md)
 * [如何编写作弊器](miscellaneous/how-to-start-coding-a-cheat.md)
