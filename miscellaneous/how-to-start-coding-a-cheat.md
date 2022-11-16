@@ -1,22 +1,22 @@
-# How to start coding a cheat
+# 如何编写作弊器
 
-If you decided to code your own cheat, then here are some information for you to know more about cheat development.
+如果你决定开发自己的作弊器，那么这里有一些信息供你了解更多关于作弊器的开发。
 
-## How to code a cheat from zero experience?
+## 0基础作弊器开发
 
-In the words of a wise man:
+正如他所说:
 
 ![Thanks, rake!](https://i.imgur.com/LUN0Fdj.png)
 
-If you are going to make a cheat, you should know that this is a time-consuming activity that involved lots of researching, reading error-finding and practicing. So if you are going to dream about making a gamesense-alike cheat within months, you can give up on cheat development.
+如果你要做一个作弊器，你应该知道这是一个耗时的活动，涉及到大量的研究、阅读找错和练习。因此，如果你要想在几个月内做出一个类似于gamesense的作弊器，那你就可以放弃作弊器的开发了。
 
-It's a good life lesson in general, if you focus on the journey the result will come, and often times the reward is less sweet without the pain and suffering of the journey.
+总的来说，这是一个很好的人生经验，如果你专注于旅途，结果就会到来，很多时候，没有旅途中的痛苦和折磨，收获就没有那么甜蜜
 
-## Timeline for learning cheat development
+## 时间线
 
-* Learn the absolute basics of using Cheat Engine: 1 week
-* Learn enough CE to use all it’s features, how to find pointers etc: 2 – 3 weeks
-* Learn C++/C\# well enough to make a hello world and know the absolute basics of coding: 1 month
+* 学习使用CE的基本功能: 1 week
+* 学习使用CE的高级功能: 2 – 3 weeks
+* 学习C++/C#的基本知识: 1 month
 * Experienced enough to make very basic trainers in C++/C\#: 3 – 6 months
 * Learn enough to make trainers with more advanced features like pattern scanning, teleporting etc: 6-12 months
 * Intermediate coding/reversing skills to hack any game you want without anticheat: 1-2 Years

@@ -1,4 +1,6 @@
-# Trust Factor
+# 账户信用
+
+红信，黄信，绿信
 
 ## Trust Factor
 
