@@ -10,7 +10,7 @@
 * 玩法
 * 杂项
 
-你可以在gitbook上方便地查看本指南 [here](https://matt12945.gitbook.io/csgo-subreddit/).
+你可以在gitbook上方便地查看本指南 [here](https://m3ma110c.gitbook.io/mg/).
 
 ### Issues and pull requests
 
@@ -18,7 +18,7 @@
 
 ### 贡献者 & 鸣谢
 
-在[原项目](https://github.com/csgohacks/master-guide)中查看
+原项目贡献者请在[原项目](https://github.com/csgohacks/master-guide)中查看
 
 ### 许可
 
