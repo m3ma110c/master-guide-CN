@@ -12,7 +12,7 @@
 
 ## 额外: 避免后门/木马/远控
 
-![yzw](https://github.com/m3ma110c/master-guide-CN/blob/main/miscellaneous/yzw.jpg)
+![余志文大跌](https://github.com/m3ma110c/master-guide-CN/blob/main/miscellaneous/yzw.jpg)
 
 这不应该算作一个骗局，但有时一些人报告说他们的电脑被病毒感染，这意味着他们的电脑可以被其他人非法远程访问，盗取密码，历史记录，cookie之类的内容。不运行来路不明的PE文件就能避免
 
